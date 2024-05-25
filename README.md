@@ -1,6 +1,6 @@
 # Stop Sign Detection with Fine-tuned RCNN (MATLAB)
 
-This repository contains MATLAB code for implementing a stop sign detection system using a fine-tuned RCNN model. Below is a breakdown of the functionalities provided:
+This repository contains MATLAB code for fine tuning a pre-trained RCNN model. Below is a breakdown of the functionalities provided:
 
 ## Training Script:
 
